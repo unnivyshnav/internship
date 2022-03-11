@@ -10,7 +10,7 @@ INTERNSHIP || Vyshnav K U ||  11/03/2022
 * The Mongoose operater called "populate()" is used to populate data inside a collection from the ObjectIds.
 
 # Tests
-Postman collection link to test APIs: 
+- Postman collection link to test APIs: 
 https://www.getpostman.com/collections/42a77471b51d2b09340a
 
 
