@@ -9,6 +9,11 @@ INTERNSHIP || Vyshnav K U ||  11/03/2022
 * Mongoose is used to connect Server to MongoDb database in this project.
 * The Mongoose operater called "populate()" is used to populate data inside a collection from the ObjectIds.
 
+# Tests
+Postman collection link to test APIs: 
+https://www.getpostman.com/collections/42a77471b51d2b09340a
+
+
 ## Technologies used
 NodeJs, ExpressJs and mongoDb database. 
 
@@ -37,9 +42,6 @@ npm start
 - API Document endpoints
 
 
-# Tests
-Postman collection link to test APIs: 
-https://www.getpostman.com/collections/42a77471b51d2b09340a
-- 
+
 
 
